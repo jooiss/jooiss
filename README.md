@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**jooiss/jooiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤️‍🔥 I’m currently learning <strong>Android Development</strong>
+- ☘️ I’m currently participating in <strong>Kakao Tech Campus</strong>
+- 👀 I'm interested in <strong>Data Processing & AI Model Development</strong>
+- 😉 I'm determined to <strong>help others with my positive energy</strong>
+- ✉️ jusong513@pusan.ac.kr
+<br>
+<br>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=jooiss&show_icons=true&theme=default" alt="jooiss' GitHub stats" style="height: 180px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooiss&layout=compact" alt="Top Langs" style="height: 180px;">
+</div>

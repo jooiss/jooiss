@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjooiss&count_bg=%23FFFFFF&title_bg=%23555555&icon=&icon_color=%23CECECE&title=%E2%98%81%EF%B8%8F&edge_flat=true)](https://hits.seeyoufarm.com)
 - ❤️‍🔥 I’m currently learning <strong>Android Development</strong>
 - ☘️ I’m currently participating in <strong>Kakao Tech Campus</strong>
 - 👀 I'm interested in <strong>Data Processing & AI Model Development</strong>

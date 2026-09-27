@@ -1,6 +1,6 @@
-### 😶‍🌫️ Jusong Kim
+### Jusong Kim
 
-**Creating Mobile Services** | **AI & Data-Driven Thinker** 📱🧠
+**Creating Mobile Services** | **AI & Data-Driven Thinker** 
 
 - _Designing meaningful experiences through code and creativity_  
 - _Applying AI & data to solve real-world problems_  
